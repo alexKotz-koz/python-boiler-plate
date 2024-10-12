@@ -1,0 +1,15 @@
+name: conda_env
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pip
+  - seaborn
+  - matplotlib
+  - psutil
+  - xlsxwriter
+  - openpyxl
+  - scikit-learn
